@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Meknes Tour Guide</string>
+    <string name="place_name">Place name</string>
+    <string name="read_more">Read more</string>
+    <string name="arrow_back">arrow back</string>
+    <string name="attraction_location_photo">Attraction location photo</string>
+
+    <!-- tab name-->
+    <string name="tab_attractions">Attractions</string>
+    <string name="tab_hotels">Hotels</string>
+    <string name="tab_restaurants">Restaurants</string>
+    <string name="tab_events">Events</string>
+
+    <!-- Attractions locations in Meknes -->
+    <string name="attraction_name_Volubilis">Volubilis</string>
+    <string name="attraction_detail_Volubilis">The ancient Roman ruins of Volubilis, about 29 kilometers from Meknes, are the main tourist attraction for Meknes. This is Morocco\'s most famous Roman remnant and for good reason. Sitting atop a hill, with the countryside rolling out below, the surviving columns and temple fragments of Volubilis are an impressive and powerfully atmospheric site.</string>
+    <string name="attraction_name_BabMansour">Bab Mansour</string>
+    <string name="attraction_detail_BabMansour">Bab al-Mansour is the main gate between Meknes\' Medina and Imperial City districts. It\'s an immense and highly photogenic structure that many experts proclaim as one of North Africa\'s finest examples of surviving gateways. Finished in 1732, it was built by Sultan Moulay Ismail (though completed after his reign). The intricate architectural detail on the gateway includes lavish use of zellige tiling and carving work.</string>
+    <string name="attraction_name_PlaceHedim">Place Hedim</string>
+    <string name="attraction_detail_PlaceHedim">While nowhere near as lively and chaotic as the main square in Marrakech, Place Hedim is often said to be Meknes’s version of the famous Djemaa el Fna. The main square in Meknes, Place Hedim is surrounded by historic buildings and narrow alleys that lead into bustling markets. It is especially lively in the evening time, when you’ll find an assortment of snack vendors and stalls selling freshly squeezed juices, music, and carnival-like games and competitions, such as trying to hook a bottle on a fishing rod.</string>
+    <string name="attraction_name_HeriEsSouani">Heri Es Souani</string>
+    <string name="attraction_detail_HeriEsSouani">Moulay Ismail considered this early-18th-century complex one of his finest architectural projects, and on paper it\'s a marvel. The massive, thick-walled, barrel-vaulted granaries (tribes paid taxes in grain) were kept cool through a system of underfloor water channels, drawing from a cistern below. Outside to the west are the remains of stables for a supposed 12,000 horses. In practice, unless you\'re particularly interested in water engineering, there is not much to see, considering the rather steep admission price.</string>
+
+    <!-- Hotels in Meknes -->
+    <string name="place_name_HotelZaki">Hotel Zaki</string>
+    <string name="place_phone_HotelZaki">Phone: +212535514149</string>
+    <string name="place_address_HotelZaki">Address: Boulevard Al Massira, 50000 Meknes, Morocco.</string>
+
+    <string name="place_name_HotelIbis">Hotel Ibis</string>
+    <string name="place_phone_HotelIbis">Phone: +212535404141</string>
+    <string name="place_address_HotelIbis">Address: Avenue Des Far, 50000 Meknes, Morocco.</string>
+
+    <string name="place_name_HotelTransatlantique">Hotel Transatlantique</string>
+    <string name="place_phone_HotelTransatlantique">Phone: +212535525050</string>
+    <string name="place_address_HotelTransatlantique">Address: El Mariniyine, 50000 Meknes, Morocco.</string>
+
+    <string name="place_name_HotelMenzehDalia">Hotel Menzeh Dalia</string>
+    <string name="place_phone_HotelMenzehDalia">Phone: +212535468595</string>
+    <string name="place_address_HotelMenzehDalia">Address: Domaine Izmar, RP N6 Vers Rabat, 50000 Meknes, Morocco.</string>
+
+    <!-- Meknes Events -->
+    <string name="event_name_SIAM">Meknes International Agricultural Show</string>
+    <string name="event_detail_SIAM">The city of Meknes hosts from April 16 to 21, the International Agricultural Show (SIAM).
+The SIAM is expected to welcome 1,500 exhibitors representing 60 participating countries, the SIAM Association said in a statement, noting that a million visitors are also expected.
+The Show is organized around 10 different poles and host more than 300 conferences on different themes related to agricultural news, adding that visitors to the SIAM have the opportunity to discover competitions of different breeds at the Breeding pole, Ring and events. Equestrian shows as well as several other activities.
+</string>
+
+    <string name="event_name_VIFTWM">Volubilis International Festival of Traditional World Music</string>
+    <string name="event_detail_VIFTWM">The Volubilis International Festival of Traditional World Music will be organized, from August 23 to 26 in Meknes (Morocco), at the initiative of the Ministry of Culture in partnership with the Council of the region of Fès-Meknes.
+Organized under the High Patronage of King Mohammed VI under the sign “The international festival of Volubilis, a crossroads for the dialogue of cultures and the mixing of the arts”, is intended to be a space for the celebration of the different expressions of cultural and artistic heritage, for authentic traditional music and showcasing the historic sites and monuments of the Ismaili city.
+</string>
+
+    <string name="event_name_MIF">Moulay Idriss Festival.</string>
+    <string name="event_detail_MIF">
+        The biggest day of celebration all year is the huge Moulay Idriss festival. The Moulay Idriss of Zerboun Moussem festival falls on August 17th and it is by far the largest religious festival in the country. People travel from all over Morocco to visit Meknes at this time.  Once they arrive, all the “Moussawyines” of Morocco go to the temple and pray until dawn.  During this time, as well, in the main square, there are storytelling and dancing and celebration of history and culture. After the day of prayer, there are performances and folklore sessions.
+    </string>
+
+    <!-- Restaurants in Meknes -->
+    <string name="place_name_RestaurantBaraka">Restaurant Baraka</string>
+    <string name="place_phone_RestaurantBaraka">Phone: +212662187441</string>
+    <string name="place_address_RestaurantBaraka">Address: 5, Db Moulay Abdallah Ahd Suezzara, 50000 Meknes, Morocco.</string>
+
+    <string name="place_name_RestaurantGoutDeMeknes">Restaurant Gout De Meknes</string>
+    <string name="place_phone_RestaurantGoutDeMeknes">Phone: +212660642995</string>
+    <string name="place_address_RestaurantGoutDeMeknes">Address: 2, Kerstoune street, in front of the Great Mosque, 50000 Meknes, Morocco.</string>
+
+    <string name="place_name_RestaurantYAHalaMeknes">Restaurant YA HALA Meknes</string>
+    <string name="place_phone_RestaurantYAHalaMeknes">Phone: +212649988816</string>
+    <string name="place_address_RestaurantYAHalaMeknes">Address: 10 Sidi Amar Bouaouada Sebaghine, 50000 Meknes, Morocco.</string>
+
+    <string name="place_name_RestaurantLaGrillardiere">Restaurant La Grillardiere</string>
+    <string name="place_phone_RestaurantLaGrillardiere">Phone: +212669405902</string>
+    <string name="place_address_RestaurantLaGrillardiere">Address: 11 Sidi Abdallah Elkasri Touta, 50000 Meknes, Morocco.</string>
+
+</resources>

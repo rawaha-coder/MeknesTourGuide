@@ -1,0 +1,87 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- CategoryTab style. -->
+    <style name="CategoryTab" parent="Widget.Design.TabLayout">
+        <item name="tabTextColor">@color/tabTextColor</item>
+        <item name="tabSelectedTextColor">@android:color/white</item>
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabMaxWidth">0dp</item>
+        <item name="tabMode">scrollable</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">top</item>
+    </style>
+
+    <style name="LinearLayoutParent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="CardViewParent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="cardBackgroundColor">@color/colorPrimaryDark</item>
+        <item name="cardCornerRadius">10dp</item>
+    </style>
+
+    <style name="CardViewChild">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">8dp</item>
+        <item name="cardCornerRadius">20dp</item>
+    </style>
+
+    <style name="CardViewImage">
+        <item name="android:layout_width">260dp</item>
+        <item name="android:layout_height">200dp</item>
+        <item name="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="LocationName">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:text">@string/place_name</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="LocationDetail">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="DetailFragment">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="readMore">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:text">@string/read_more</item>
+    </style>
+
+</resources>

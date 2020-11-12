@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/CardViewParent">
+
+    <LinearLayout
+        style="@style/LinearLayoutParent">
+
+        <androidx.cardview.widget.CardView
+            style="@style/CardViewChild">
+
+            <ImageView
+                android:id="@+id/rv_row_attraction_photo"
+                style="@style/CardViewImage"
+                android:contentDescription="@string/attraction_location_photo" />
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/rv_row_attraction_name"
+            style="@style/LocationName"/>
+
+        <TextView
+            android:id="@+id/rv_row_attraction_detail"
+            style="@style/LocationDetail"
+            android:textSize="14sp"
+            />
+
+        <Button
+            android:id="@+id/rv_row_read_more"
+            style="@style/readMore"
+            />
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
